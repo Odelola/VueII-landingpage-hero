@@ -1,4 +1,4 @@
-  {
+{
   "name": "vuelandingpage",
   "author": "Inertia (Odelola) hello@odelola@gmail.com",
   "version": "0.1.0",
@@ -26,20 +26,6 @@
     "tailwindcss": "^3.0.23",
     "vue-template-compiler": "^2.6.14"
   },
-  "homepage": "https://github.com/Odelola/VueII-landingpage-hero#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Odelola/VueII-landingpage-hero.git"
-  },
-  "keywords": [
-    "vue2",
-    "gsap",
-    "figma",
-    "vue landingpage"
-  ],
-  "bugs": {
-    "url": "https://github.com/Odelola/VueII-landingpage-hero/issues"
-  },
   "eslintConfig": {
     "root": true,
     "env": {
@@ -51,6 +37,20 @@
     ],
     "parserOptions": {
       "parser": "@babel/eslint-parser"
+    },
+    "homepage": "https://github.com/Odelola/VueII-landingpage-hero#readme",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Odelola/VueII-landingpage-hero.git"
+    },
+    "keywords": [
+      "vue2",
+      "gsap",
+      "figma",
+      "vue landingpage"
+    ],
+    "bugs": {
+      "url": "https://github.com/Odelola/VueII-landingpage-hero/issues"
     },
     "rules": {
       "vue/multi-word-component-names": "off"
